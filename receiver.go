@@ -1,5 +1,6 @@
 /*
 receiver is interface for signal receiver that will be called.
+
 */
 package signals
 
